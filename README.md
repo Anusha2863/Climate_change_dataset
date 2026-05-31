@@ -144,3 +144,8 @@ The Climate Change Dashboard provides a clear, interactive, and structured way t
 
 
 ⭐ If you found this project useful, feel free to star the repository.
+
+
+
+<img width="6000" height="4000" alt="bg" src="https://github.com/user-attachments/assets/f540396a-f1e9-4232-acae-3edc2dd1e258" />
+
